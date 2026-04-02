@@ -2,3 +2,4 @@ install/
 *.o
 *.so
 .vscode/
+.file_activity_report.json
